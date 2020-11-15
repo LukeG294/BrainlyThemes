@@ -15,22 +15,40 @@
     
  
     
+body {
+    background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif");
+    
+    }
+    
+ 
+    
 .brn-moderation-panel__button{
     background-color: #2c3d62;
     
     }  
-.sg-button{
-    background-color: #DEF6DF;
     
-    } 
+
+    
+.brn-subject-list__subject{
+    background-color: #99999 ;
+    
+    }  
+.sg-button {
+    background-color:#A4B0F5 ;
+    
+    }  
 .sg-label{
-    background-color: #E43D3D;
+    background-color: #BFD7EA   ;
     
-    } 
-.brn-subject{
-    background-color: #E2E2E2;
+    }
+.content{
+    background-color: #BFD7EA   ;
     
-    } 
+    }
+.header{
+    background-color: #BFD7EA   ;
+    
+    }
 
 }
    
