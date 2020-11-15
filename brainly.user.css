@@ -2,25 +2,23 @@
 @name           Winter Brainly
 @namespace      LukeG294
 @version        1.0.1
-@author         Luke Graham
+@author         Luke Graham + Ben Soyka
 @license        MIT
 @updateURL      https://raw.githubusercontent.com/LukeG294/WinterBrainly/main/brainly.user.css
 ==/UserStyle== */
 
-@-moz-document domain("brainly.com") {
+@-moz-document domain("brainly.com"), url("brainly.com/tasks/") {
     .body {
     background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif");
     
     }
-    
- 
     
 .brn-moderation-panel__button{
     background-color: #2c3d62;
     
     }  
 .sg-button{
-    background-color: #DEF6DF;
+    background-color: #7ACC90;
     
     } 
 .sg-label{
@@ -31,6 +29,30 @@
     background-color: #E2E2E2;
     
     } 
-
+.HeaderController__innerwrap--1D0qY{
+    background-color: #7ACC90;
+    
+    } 
 }
    
+.sq-box{
+    background-color: #2c3d62;
+}
+.HeaderController__subnav--1hTF0{
+    background-color: #7ACC90 ;   
+}
+.sg-select__element{
+    background-color: #F44949;
+}
+.brn-subject-list__subject--active {
+    background-color: #F48080;
+    
+    }   
+.sg-box--padding-m {
+    background-color: #DEF6DF;
+    
+    } 
+.content{
+    background-color: #DEF6DF;
+    
+    } 
