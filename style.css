@@ -1,3 +1,15 @@
-body {
-    background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif");
-}
+/* ==UserStyle==
+@name           Winter Ryver
+@namespace      LukeG294
+@version        1.0.0
+@author         Luke Graham
+@license        MIT
+@updateURL      
+==/UserStyle== */
+
+@-moz-document domain("brainlyus.ryver.com") {
+    .view {
+        background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif") !important;
+    }
+
+   
