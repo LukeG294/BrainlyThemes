@@ -1,58 +1,49 @@
 /* ==UserStyle==
 @name           Winter Brainly
 @namespace      LukeG294
-@version        1.0.1
+@version        1.1.0
 @author         Luke Graham + Ben Soyka
 @license        MIT
-@updateURL      https://raw.githubusercontent.com/LukeG294/WinterBrainly/main/winter.user.css
+@updateURL      https://raw.githubusercontent.com/LukeG294/WinterBrainly/main/brainly.user.css
 ==/UserStyle== */
 
-@-moz-document domain("brainly.com"), url("brainly.com/tasks/") {
-    .body {
-    background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif");
-    
+@-moz-document domain("brainly.com") {
+    .sg-layout__container {
+        background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif");
+        background-repeat: repeat;
     }
-    
-.brn-moderation-panel__button{
-    background-color: #2c3d62;
-    
-    }  
-.sg-button{
-    background-color: #7ACC90;
-    
-    } 
-.sg-label{
-    background-color: #E43D3D;
-    
-    } 
-.brn-subject{
-    background-color: #E2E2E2;
-    
-    } 
-.HeaderController__innerwrap--1D0qY{
-    background-color: #7ACC90;
-    
-    } 
+
+    .sg-button,
+    div[class^="HeaderController__subnav"],
+    div[class^="HeaderController__innerwrap"] {
+        background-color: #7acc90;
+    }
+
+    .sg-label,
+    .brn-subject-list__subject--active {
+        background-color: #eb5e5e;
+    }
+
+    .sg-label *,
+    .brn-subject-list__subject--active * {
+        color: white;
+    }
+
+    .brn-subject {
+        background-color: #e2e2e2;
+    }
+
+    .sg-select .sg-select__element {
+        background-color: #eb5e5e;
+        color: white;
+    }
+
+    .sg-select .sg-icon--gray-secondary svg {
+        fill: white;
+    }
+
+    .sg-box--padding-m,
+    .content {
+        background-color: #def6df;
+    }
 }
-   
-.sq-box{
-    background-color: #2c3d62;
-}
-.HeaderController__subnav--1hTF0{
-    background-color: #7ACC90 ;   
-}
-.sg-select__element{
-    background-color: #F44949;
-}
-.brn-subject-list__subject--active {
-    background-color: #F48080;
-    
-    }   
-.sg-box--padding-m {
-    background-color: #DEF6DF;
-    
-    } 
-.content{
-    background-color: #DEF6DF;
-    
-    } 
