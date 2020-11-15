@@ -4,11 +4,11 @@
 @version        1.0.0
 @author         Luke Graham
 @license        MIT
-@updateURL      https://github.com/LukeG294/WinterBrainly/raw/main/brainly.user.css
+@updateURL      https://raw.githubusercontent.com/LukeG294/WinterBrainly/main/brainly.user.css
 ==/UserStyle== */
 
 @-moz-document domain("brainly.com") {
-    body {
+    .body {
     background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif");
     
     }
