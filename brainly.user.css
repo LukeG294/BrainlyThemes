@@ -8,7 +8,7 @@
 ==/UserStyle== */
 
 @-moz-document domain("brainly.com") {
-    .view {
+    .body {
         background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif") !important;
     }
 }
