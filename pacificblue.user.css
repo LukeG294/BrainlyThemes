@@ -1,0 +1,37 @@
+/* ==UserStyle==
+@name           Minimal Lavender Brainly
+@namespace      LukeG294
+@version        1.0.0
+@author         Luke Graham 
+@license        MIT
+@updateURL      https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/lavender.user.css
+==/UserStyle== */
+
+.sg-button{
+background-color:#A0D2DB;
+}
+.content{
+background-color:#A0D2DB;
+}
+.header{
+background-color:#A0D2DB;
+}
+.mint-header__container{
+background-color:#A0D2DB;
+}
+.brn-moderation-panel__content{
+background-color:#A0D2DB;
+}
+.sg-menu-list__link{
+    color:black;
+
+}
+.sg-button__text{
+    color:black
+}
+.brn-subject-list__subject--active{
+    color:black
+}
+.sg-label{
+    background-color:#A0D2DB
+}
