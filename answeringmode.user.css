@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Answering Mode
 @namespace      LukeG294
-@version        1.0.0
+@version        1.1.0
 @author         Luke Graham 
 @license        MIT
 @updateURL      https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/answeringmode.user.css
@@ -12,7 +12,12 @@
 .sg-flex.sg-flex--justify-content-center.BrainlyPlusToaster__section--11nNy{
         display:None;
     }
-
+.brn-qpage-next-newest-questions__section{
+    display:None;
+}
+.brn-qpage-next-newest-questions{
+    display:none;
+}
 
 
 .sg-flex.sg-flex--full-width.brn-fade-in-fast.brn-challenge-confetti__container{
