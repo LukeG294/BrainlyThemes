@@ -1,3 +1,14 @@
+/* ==UserStyle==
+@name           Answering Mode
+@namespace      LukeG294
+@version        1.2.0
+@author         Luke Graham 
+@license        MIT
+@updateURL      https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/lavender.user.css
+==/UserStyle== */
+
+@-moz-document domain("brainly.com") {
+  
 .sg-flex.sg-flex--justify-content-center.BrainlyPlusToaster__section--11nNy{
         display:None;
     }
@@ -66,4 +77,5 @@
 }
 .sg-button.sg-button--solid-mint{
     display:None;
+}
 }
