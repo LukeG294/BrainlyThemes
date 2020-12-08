@@ -8,3 +8,5 @@ Currently, the theme is Winter Brainly.
 **Installation Intructions:** 
 
 Download the [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension from the chrome webstore. 
+Visit any of the raw content links in links.txt
+Press "install style".
