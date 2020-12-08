@@ -1,12 +1,15 @@
 /* ==UserStyle==
 @name           Pacific Blue Brainly
 @namespace      LukeG294
-@version        1.0.0
+@version        1.1.0
 @author         Luke Graham 
 @license        MIT
 @updateURL      https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/pacificblue.user.css
 ==/UserStyle== */
 
+@-moz-document domain("brainly.com") {
+  .sg-flex.sg-flex--justify-content-center.BrainlyPlusToaster__section--11nNy{
+display:None;
 .sg-button{
 background-color:#A0D2DB;
 }
@@ -34,4 +37,5 @@ background-color:#A0D2DB;
 }
 .sg-label{
     background-color:#A0D2DB
+}
 }
