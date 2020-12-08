@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/bannerfix.user.css - Banner fix
+https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/lavender.user.css - Lavender
+https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/pacificblue.user.css - Pacific Blue
+https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/winter.user.css - Winter
