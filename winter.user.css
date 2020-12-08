@@ -7,10 +7,14 @@
 @updateURL      https://raw.githubusercontent.com/LukeG294/BrainlyThemes/main/winter.user.css
 ==/UserStyle== */
 
+  
 @-moz-document domain("brainly.com") {
     .sg-layout__container {
         background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif");
         background-repeat: repeat;
+    }
+    .sg-flex.sg-flex--justify-content-center.BrainlyPlusToaster__section--11nNy{
+        display:None;
     }
 
     .sg-button,
