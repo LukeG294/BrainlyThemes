@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Brainly+ Banner Fix
+@namespace      LukeG294
+@version        1.0.0
+@author         Luke Graham 
+@license        MIT
+@updateURL      
+==/UserStyle== */
+
+.sg-flex.sg-flex--justify-content-center.BrainlyPlusToaster__section--11nNy{
+display:None;
+}
+
